@@ -28,7 +28,7 @@
         </ul>
 
         <ul class="navbar__icons">
-            <li><a href="login.html">
+            <li><a href="project_login.html">
                 로그인
             </a></li>
             <li><a href="">
